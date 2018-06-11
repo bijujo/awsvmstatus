@@ -2,6 +2,7 @@
 
 Usage
 
+
 ec2-user $./aws_vm_check_start.py
 stopped
 VM i-0992fd3fe9c1338a1 in stopped state. Starting VM
